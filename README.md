@@ -2,7 +2,7 @@
 
 Removes the preinstalled Rsota update service.
 
-A KernelSU Next module for the **Foxxd A67L Gen 2**.
+A KernelSU Next module for the **Foxxd A67L Gen 2**. Gen 1 version: [A67LG1-Bluestone](https://github.com/thewickedlabs/A67LG1-Bluestone).
 
 Rsota (`com.revoview.update`) is the factory over-the-air update app. It reports the device to its
 own servers and can install software silently. This module hides it systemlessly, so it isn't loaded
